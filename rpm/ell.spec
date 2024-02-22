@@ -1,6 +1,6 @@
 Name:       ell
 Summary:    Embedded Linux library
-Version:    0.58
+Version:    0.62
 Release:    1
 License:    GPLv2
 URL:        https://git.kernel.org/pub/scm/libs/ell/ell.git
